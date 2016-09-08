@@ -1,4 +1,22 @@
 
-div	{
+.uno	{
+	width: 200px;
+	height: 200px;
+	border: 10px solid yellow;
+	padding: 5px;
+
+
+
+
 	
+}
+
+.dos {
+	width: 200px;
+	height: 200px;
+	border: 10px solid yellow;
+	padding: 5px;
+	margin: 500px 500px 100px;
+
+
 }
